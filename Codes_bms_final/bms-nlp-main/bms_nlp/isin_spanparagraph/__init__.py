@@ -1,0 +1,1 @@
+from .isin_spanparagraph import Isin_spanparagraph
